@@ -1,5 +1,5 @@
 pkg=ruby3.1
 version_orig=3.1.2
-version="$version_orig-8.3"
-git_src -b "debian/$version" "https://salsa.debian.org/ruby-team/ruby.git"
+version="$version_orig-8.4"
+git_src -b "master-3.1" "https://salsa.debian.org/ruby-team/ruby.git"
 
