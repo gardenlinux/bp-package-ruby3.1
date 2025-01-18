@@ -4,3 +4,4 @@ apt_src ruby3.1
 #version="$version_orig-8.4"
 #git_src -b "master-3.1" "https://salsa.debian.org/ruby-team/ruby.git"
 
+version_suffix=gl0
